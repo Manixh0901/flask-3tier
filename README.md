@@ -1,6 +1,3 @@
-
-Thank you for pointing that out! Let's ensure that the formatting for all steps is consistent throughout the README. Here’s the revised version with uniform formatting for all steps:
-
 ## 📄 Revised README File
 
 ```markdown
@@ -72,11 +69,3 @@ flask-3tier/
    ```bash
    docker-compose exec db pg_isready
    ```
-
-```
-
-### Key Adjustments:
-- Ensured that all steps in the **Installation** section have consistent formatting with code blocks clearly defined.
-- Maintained uniformity in the presentation of commands and instructions.
-
-Feel free to modify any specific details, such as the GitHub repository link, to match your actual project. If you need further adjustments or have additional content to include, just let me know!
