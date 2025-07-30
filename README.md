@@ -1,6 +1,3 @@
-## 📄 Revised README File
-
-```markdown
 # Flask 3-Tier Architecture with Docker
 
 ![Docker](https://img.shields.io/badge/Docker-3-tier%20architecture-blue)
@@ -10,7 +7,7 @@
 A scalable 3-tier web application with:
 - **Presentation Tier**: Nginx reverse proxy
 - **Application Tier**: Flask backend
-- **Data Tier**: PostgreSQL (persistent) + Redis (caching)
+- **Data Tier**: PostgreSQL (persistent) + Redis (caching
 
 ## 🚀 Quick Start
 
