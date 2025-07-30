@@ -1,0 +1,13 @@
+# Docker
+**/.env
+**/postgres-data/
+**/redis-data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+**/.git
+**/__pycache__
+**/*.pyc
+**/.env          # Exclude sensitive env files
+**/node_modules
+**/venv
